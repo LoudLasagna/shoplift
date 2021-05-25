@@ -1,0 +1,1 @@
+setTimeout(function(){window.location.href="http://mark-tech/login.php"},5000);
